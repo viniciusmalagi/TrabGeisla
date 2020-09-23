@@ -1,0 +1,14 @@
+1º tela funcional:
+
+login = user01
+senha = 1234
+---------------------------
+2º tela:
+
+Cadastro de Clientes - (SQL)
+
+Cadastrar/Salvar
+Alterar
+Excluir
+
+--------------------------------
